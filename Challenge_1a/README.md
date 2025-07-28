@@ -27,8 +27,3 @@ Extract a structured outline from a PDF document, mimicking how a machine would 
 
 ---
 
-## 📁 Input/Output Format
-
-### 🔹 Input
-All PDF files should be placed in the `/app/input` directory.  
-**Example:**  
