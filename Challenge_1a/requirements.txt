@@ -1,0 +1,6 @@
+onnxruntime
+transformers
+PyMuPDF
+jsonschema
+numpy
+tqdm

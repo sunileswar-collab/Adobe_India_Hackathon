@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.git
+*.env
+*.ipynb_checkpoints
+download_tokenizer.py        # if you decide to exclude it from docker image
